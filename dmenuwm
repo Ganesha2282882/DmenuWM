@@ -1,0 +1,5 @@
+#!/bin/bash
+BINDKEY="xbindkeys"
+DMENU="dmenu_run"
+$BINDKEY &
+$DMENU &
