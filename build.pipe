@@ -1,1 +1,1 @@
-sudo cp dmenuwm /etc/; cp .xbindkeysrc $HOME/; sudo cp DmenuWM.desktop /usr/share/xsessions/dmenuwm.desktop
+sudo cp dmenuwm /etc/; cp .xbindkeysrc $HOME/; sudo cp DmenuWM.desktop /usr/share/xsessions/dmenuwm.desktop; sudo chmod +x /etc/dmenuwm
