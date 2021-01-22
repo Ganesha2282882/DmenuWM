@@ -3,3 +3,6 @@ BINDKEY="xbindkeys"
 DMENU="dmenu_run"
 $BINDKEY &
 $DMENU &
+while :; do
+sleep 10
+done
