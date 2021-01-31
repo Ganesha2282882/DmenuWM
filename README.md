@@ -1,5 +1,5 @@
 # DmenuWM
-A WM with just dmenu.
+A WM with just `dmenu` and `xbindkeys`.
 ## Installing
 Use the `build.pipe`:
 ```
